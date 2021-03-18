@@ -1,0 +1,7 @@
+baseURL = "https://canipoyo.github.io"
+title = "キャナルサイト"
+languageCode = "ja-jp"
+themeDir = "./themes/m10c/"
+theme = "m10c"
+publishDir = "docs"
+canonifyurls = true
